@@ -4,7 +4,7 @@
 
 
 
-#Table of contents
+###Table of contents
 
 - link to live
 
@@ -18,10 +18,10 @@
 https://00awaudby.github.io/pokemon-card-generator/
 
 
-#My process 
+# My process 
 Built with Semantic HTML5 markup CSS custom properties Flexbox and JAVASCRIPT
 
-#What i learned
+# What i learned
 
 I learned a bit more about working with an api and implementing the javascript concepts i have leaned over the course of a bootcamp.
 
