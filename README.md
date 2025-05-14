@@ -15,7 +15,7 @@
 - Author
 
 # Link to Live Project 
-https://00awaudby.github.io/pokemon-card-generator/
+https://ashleywaudbydev.github.io/pokemon-card-generator/
 
 
 # My process 
